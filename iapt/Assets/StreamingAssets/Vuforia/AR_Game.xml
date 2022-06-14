@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="10OfClubs" size="0.065000 0.097945" />
+    <ImageTarget name="JackOfClubs" size="0.100000 0.143979" />
+    <ImageTarget name="QueenOfClubs" size="0.100000 0.148548" />
+    <ImageTarget name="KingOfClubs" size="0.100000 0.143885" />
+  </Tracking>
+</QCARConfig>
